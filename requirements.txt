@@ -1,0 +1,12 @@
+
+open_clip_torch
+pandas
+scikit-learn
+python-decouple
+matplotlib
+seaborn
+torchmetrics
+einops
+wandb
+scikit-image
+opencv-python
